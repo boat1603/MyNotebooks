@@ -1,0 +1,3 @@
+https://github.com/HeroKillerEver/coursera-deep-learning
+https://github.com/Kulbear/deep-learning-coursera
+https://github.com/gyunggyung/Sequence-Models-coursera
