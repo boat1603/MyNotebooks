@@ -1,0 +1,6 @@
+#To Do
+Regex
+Scipi
+Matplotlib & seaborn
+json#like dict
+beautiful soup
