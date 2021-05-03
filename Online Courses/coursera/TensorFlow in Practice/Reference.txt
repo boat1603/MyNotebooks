@@ -1,0 +1,2 @@
+https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization
+https://github.com/agniiyer/TensorFlow-in-Practice-Specialization

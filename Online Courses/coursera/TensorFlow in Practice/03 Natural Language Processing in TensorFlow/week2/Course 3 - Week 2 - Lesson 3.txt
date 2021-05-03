@@ -1,0 +1,1 @@
+https://github.com/agniiyer/TensorFlow-in-Practice-Specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Course%203%20-%20Week%202%20-%20Lesson%203.ipynb
